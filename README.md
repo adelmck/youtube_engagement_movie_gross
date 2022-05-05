@@ -18,3 +18,23 @@ Questions?/Hypothesis
   Are comments on a movie trailer a Key Performance Index on the movie's performance?
       
       No comment count won't predict the movie gross since comments can mean a movie is controversial (good or bad) or has a rabid fan base that argues in comment section.
+
+    Is there a minimum and maximum amount of views/investment that movie studios should aim for to maximize profit.
+
+
+Process
+
+Gather the data
+
+Data sources:
+    
+    Box office mojo
+    the-numbers
+    youtube api data on studio channels
+    
+Explore the data
+
+
+
+
+Clean the data
