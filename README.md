@@ -32,7 +32,9 @@ Gather the data
 Data sources:
     
   1.Box office mojo
+  
   2.the-numbers
+  
   3.youtube api data on studio channels
     
 Explore the data
