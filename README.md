@@ -48,3 +48,7 @@ Clean the data
    1. Remove the duplicate movies.
 
    2. Remove rows with empty value fields.
+   3. Rename columns.
+   4. Remove unecessary redundant columns.
+
+
