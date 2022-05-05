@@ -5,6 +5,8 @@ Skills demonstrated: web scraping, Api, data cleaning, data analysis, Data visua
 
 
 Questions?/Hypothesis
+
+
   Can youtube views on a movie trailer be used to predict the future box office performance of the movie?
       Views can be used as a predictor of box office performance.
   
