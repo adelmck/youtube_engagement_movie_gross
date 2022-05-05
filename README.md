@@ -37,14 +37,14 @@ Data sources:
     
 Explore the data
 
-  There are some rows that repeat year from year, movies released at the end of one year appear on both release year and following year.
+    There are some rows that repeat year from year, movies released at the end of one year appear on both release year and following year.
 
-  There are rows with empty values
+    There are rows with empty values
 
 
 
 Clean the data
 
-  Remove the duplicate movies.
+    Remove the duplicate movies.
 
-  Remove rows with empty value fields.
+    Remove rows with empty value fields.
